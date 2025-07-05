@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RetroCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#6B88D3</item>
+        <item name="colorSecondary">#EFEFBB</item>
+        <item name="colorTertiary">#00008B</item>
+        <item name="android:colorBackground">#0A0A1A</item>
+        <item name="colorSurface">#1A1A2E</item>
+        <item name="android:statusBarColor">#0A0A1A</item>
+        <item name="android:navigationBarColor">#0A0A1A</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.RetroCalculator" parent="Base.Theme.RetroCalculator" />
+</resources>
